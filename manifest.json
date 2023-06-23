@@ -13,8 +13,8 @@
     {
       "js": ["scripts/content.js"],
       "matches": [
-        "http://developer.chrome.com/docs/extensions/*",
-        "http://developer.chrome.com/docs/webstore/*"
+        "https://developer.chrome.com/docs/extensions/*",
+        "https://developer.chrome.com/docs/webstore/*"
       ]
     }
   ]
